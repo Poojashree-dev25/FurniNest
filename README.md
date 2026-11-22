@@ -1,29 +1,82 @@
-# FurniNest — Furniture Store Frontend
+# 🪑 FurniNest – Furniture E-Commerce Website
 
-A responsive furniture storefront demo built with plain HTML, CSS, and JavaScript.
+**Find Comfort. Create Beautiful Living Spaces.**
 
-## Run locally
-1. Extract the ZIP file.
-2. Open `index.html` in Chrome, Edge, or Firefox.
-3. Internet access is required for the Google Fonts and remote Unsplash demo photos.
+FurniNest is a responsive furniture e-commerce frontend website designed to provide a clean, elegant, and user-friendly shopping experience. It showcases modern furniture collections with interactive shopping features and a minimalist design.
 
-## Files
-- `index.html` — page structure and content
-- `style.css` — layout, responsive styling, 3D hover effects and animations
-- `script.js` — filters, search, wishlist, shopping bag drawer and newsletter demo
+🌐 **Live Demo:** https://poojashree25-web.github.io/FurniNest/
 
-## Features
-- Responsive navigation
-- Hero section with subtle 3D tilt / pointer parallax
-- Furniture collection cards
-- Product filters and search
-- Add-to-bag interaction with quantity and subtotal
-- Wishlist toggle
-- Scroll reveal animations
-- Newsletter demo interaction
+## ✨ Features
 
-## Before publishing
-- Replace the sample photos with your own licensed product photography or 3D renders.
-- Update prices, product details, contact information and brand copy.
-- Connect checkout, newsletter and inventory to a backend if you want a real store.
-- This is a frontend demo; checkout and newsletter do not send/store real data.
+- Responsive and modern user interface
+- Furniture product collections
+- Product category filtering
+- Product search functionality
+- Shopping bag with subtotal calculation
+- Wishlist toggle functionality
+- Interactive navigation
+- Newsletter subscription demo
+- Smooth animations and hover effects
+- Mobile-friendly layout
+
+## 🛠️ Technologies Used
+
+| Technology | Purpose |
+|---|---|
+| HTML5 | Website structure |
+| CSS3 | Styling, layouts and animations |
+| JavaScript | Interactive functionality |
+
+## 📂 Project Structure
+
+```text
+FurniNest/
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+```
+
+## 🚀 Run Locally
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/poojashree25-web/FurniNest.git
+   ```
+
+2. Open the project folder.
+3. Open `index.html` in your browser.
+4. Internet access is required for externally hosted fonts and demo images.
+
+## ⚠️ Project Limitations
+
+This is a frontend demonstration project.
+
+- Checkout is not connected to a payment gateway.
+- Cart and wishlist are not connected to a database.
+- Newsletter subscription is a demo feature.
+- No backend or user authentication is implemented.
+
+## 🔮 Future Enhancements
+
+- Backend integration using Java Spring Boot or Node.js
+- Database integration
+- User registration and login
+- Persistent shopping cart and wishlist
+- Secure payment gateway integration
+- Admin dashboard for product management
+
+## 👩‍💻 Developer
+
+**Poojashree**
+
+AI & ML Developer | Full Stack Developer
+
+- GitHub: https://github.com/poojashree25-web
+- LinkedIn: https://www.linkedin.com/in/poojashree01/
+
+---
+
+⭐ If you find this project interesting, feel free to explore the repository!
